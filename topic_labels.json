@@ -1,0 +1,60 @@
+{
+  "RQ1": {
+    "labels": [
+      "语言表达与篇章组织",
+      "引导性问题及其适用性",
+      "研究概念与证据核查",
+      "分步指导与理解支持"
+    ],
+    "english": [
+      "Language and organization",
+      "Guiding questions and their fit",
+      "Research concepts and evidence",
+      "Stepwise guidance"
+    ],
+    "selection_reason": "K=4 distinguishes content focus from question-based and stepwise delivery. K=3 merges the latter; K>=5 splits rereading and formatting but creates more overlapping or writer-specific topics. Labels describe lexical patterns, not validated qualitative codes."
+  },
+  "RQ2": {
+    "labels": [
+      "补充研究内容与解释",
+      "语言格式修改及有限修改",
+      "围绕问题补充或核对回答"
+    ],
+    "english": [
+      "Research detail and explanation",
+      "Language edits and limited change",
+      "Expanding or checking answers"
+    ],
+    "selection_reason": "K=3 retained as a broad navigation model. K>=4 isolates repeated phrasing dominated by one participant rather than a clear new revision action. Human coding must separate reported actual edits, plans, no change, and independent revision."
+  },
+  "RQ3": {
+    "labels": [
+      "研究理解与批判性解释",
+      "回答展开与任务要求意识",
+      "有限收获与改变写法的反思",
+      "提问策略与自我检查"
+    ],
+    "english": [
+      "Research understanding and critique",
+      "Answer elaboration and task demands",
+      "Limited benefit and writing reflection",
+      "Questioning and self-checking"
+    ],
+    "selection_reason": "K=4 preserves a strategy-oriented topic missing in K=3 without the further splitting of generic better-understanding wording at K=5. Coherence is weak, so these are tentative prompts for semantic review. Comparable questions exist only for Rounds 1-3."
+  },
+  "RQ3_extended": {
+    "labels": [
+      "提问与引导策略",
+      "研究理解与解释",
+      "收获评价与情绪挑战（混合）",
+      "回答要求与工作表体验"
+    ],
+    "english": [
+      "Questioning strategies",
+      "Research understanding",
+      "Benefit and affect (mixed)",
+      "Answer demands and worksheet"
+    ],
+    "selection_reason": "K=4 is an auxiliary discovery model pooling R1-3 Q3 with R4 Q4. The changed question mixes affect and limited-benefit wording. It is not evidence of longitudinal change in learning."
+  }
+}

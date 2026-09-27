@@ -1,0 +1,37 @@
+code,rq,label,inclusion,exclusion_or_boundary,status
+F01,RQ1,语言准确性,语法、拼写、标点、句法准确性建议,排除仅说写得更好,AI-assisted provisional code; human review pending
+F02,RQ1,引用与格式规范,APA、引文、标题、间距或参考文献要求,不把论据充分性等同于引文格式,AI-assisted provisional code; human review pending
+F03,RQ1,组织连贯与表达风格,结构、过渡、简洁度、语域、重复表达建议,若强调新增实质内容另加 F04,AI-assisted provisional code; human review pending
+F04,RQ1,内容展开与论据补充,要求增加例子、细节、解释或证据,只要求改语法不纳入,AI-assisted provisional code; human review pending
+F05,RQ1,研究概念与方法澄清,变量、假设、抽样、对照、统计概念等说明,记录被报告的内容；不默认其知识正确,AI-assisted provisional code; human review pending
+F06,RQ1,证据核查与研究推理,核对原文、论断与证据关系、效度、局限或解释,不把出现 research 一词就判为深层反馈,AI-assisted provisional code; human review pending
+F07,RQ1,引导式提问,通过问题引导学生思考而非直接提供答案,同时另记学生认为有效或无效,AI-assisted provisional code; human review pending
+F08,RQ1,分步指导与自我检查,步骤、清单、朗读、返回原文等操作策略,与反馈关注内容交叉编码,AI-assisted provisional code; human review pending
+F09,RQ1,确认与肯定,确认答案、指出优点或给予鼓励,不是所有 confidence 都是 AI 的人格赞扬,AI-assisted provisional code; human review pending
+F10,RQ1,笼统重复或不适配,学生明确指建议泛化、重复、与任务不符,这是学生评价；不等同客观反馈质量评定,AI-assisted provisional code; human review pending
+F11,RQ1,本轮未使用或未完成,明确不使用 AI 或未完成活动,不能将其计为某类 AI 已提供反馈,AI-assisted provisional code; human review pending
+F12,RQ1,直接改写或提供示例,报告 AI 重写或提供范文,区分作者主动要求与 AI 自发行为,AI-assisted provisional code; human review pending
+C01,RQ2,纠正语言错误,报告已改正语法、拼写、标点,计划改与已经改分开,AI-assisted provisional code; human review pending
+C02,RQ2,重述压缩与调整语域,重写句子、删冗余、改用学术词语,单纯新增研究事实另加 C04,AI-assisted provisional code; human review pending
+C03,RQ2,修改引用与版式,修改 APA、引文、标题等,核查但无实际修改另记 C07,AI-assisted provisional code; human review pending
+C04,RQ2,补充解释与细节,加入例子、定义、背景、结果或证据,不预设增加长度必然提高质量,AI-assisted provisional code; human review pending
+C05,RQ2,重组篇章与衔接,改结构、段落顺序、过渡、引言或结论,局部句法改动归 C02,AI-assisted provisional code; human review pending
+C06,RQ2,修正解释或论证关系,替换错误解释、重建论断或研究要素关系,不凭关键词认定实际认知深度,AI-assisted provisional code; human review pending
+C07,RQ2,核查与独立自我修订,查原文、反复阅读、调用先前策略自行修订,核查未改不是零参与；另记结果,AI-assisted provisional code; human review pending
+C08,RQ2,选择或改造建议,明确只用部分建议或保留作者表达,必须有选择、改造证据，不能由一般修改推断,AI-assisted provisional code; human review pending
+C09,RQ2,拒绝建议并保留原稿,报告考虑建议后决定不改,拒绝理由需另记；不自动认定判断正确,AI-assisted provisional code; human review pending
+C10,RQ2,未改或仅少量修改,明确没有或几乎没有改动,必须区分已有正确、AI 无效、未使用、能力迁移等原因,AI-assisted provisional code; human review pending
+C11,RQ2,只报告计划或模糊成效,未来计划、泛称更有信心而不说明已做何种修改,不能当已实施修订,AI-assisted provisional code; human review pending
+C12,RQ2,其他来源或自行修改,归因于教师、同学、Grammarly 或自己而非本轮 AI,不要将所有 Q2 文本默认视为 AI uptake,AI-assisted provisional code; human review pending
+L01,RQ3,语言与篇章质量意识,注意简洁、清晰、结构、语域等写作原则,与具体已实施修改区分,AI-assisted provisional code; human review pending
+L02,RQ3,解释充分性与读者意识,认识到需展开细节、定义、依据，帮助读者理解,只说更长不自动纳入,AI-assisted provisional code; human review pending
+L03,RQ3,研究知识与概念理解,自述学习变量、方法、统计或研究内容,自述理解不代表内容正确,AI-assisted provisional code; human review pending
+L04,RQ3,批判阅读与研究推理,自述从描述转向评价、联系证据、局限和意义,与对 AI 输出的批判另分 L08,AI-assisted provisional code; human review pending
+L05,RQ3,自我提问与检查,把 AI 提问、查证或检查方法用于自身思考,认同提问不等于已掌握策略,AI-assisted provisional code; human review pending
+L06,RQ3,规划时间与分步修订,提前开始、分步、反复阅读、较早寻求反馈,只提下一次不够，需具体行动意向,AI-assisted provisional code; human review pending
+L07,RQ3,提示与工具使用策略,学会更具体提问、提供任务要求、改变提示,不自动归为写作能力增长,AI-assisted provisional code; human review pending
+L08,RQ3,判断 AI 局限与保留自主性,辨别适用性、筛选输出、保留立场或声音,泛泛喜欢或讨厌 AI 不足以证明判断能力,AI-assisted provisional code; human review pending
+L09,RQ3,信心与情绪体验,自述更安心、被支持、压力降低或未降低,R4 为直接提示；不能用频数跨轮推断增长,AI-assisted provisional code; human review pending
+L10,RQ3,迁移到后续或其他任务,明确报告未来使用意向或实际跨任务使用,标记 intention 或 reported_enactment,AI-assisted provisional code; human review pending
+L11,RQ3,没有或有限收获,明确说没学到、收获有限、无需改变,保留 Nothing 等短答，不作缺失,AI-assisted provisional code; human review pending
+L12,RQ3,寻求人类支持,认为教师或同伴反馈必要，计划求助,区分被建议求助与学生主动策略,AI-assisted provisional code; human review pending

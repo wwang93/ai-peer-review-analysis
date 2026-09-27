@@ -1,0 +1,16 @@
+corpus,topic,label,top_terms,n_model,dominant_n,mean_weight,bootstrap_topic_similarity_mean,bootstrap_topic_similarity_p10
+RQ1,1,语言表达与篇章组织,sentenc; improv; structur; point; clear; flow; format; chang; grammar; area; fix; word; sentenc structur; concis; apa,145,42,0.3009465640266573,0.6144283689698361,0.4890059024539147
+RQ1,2,引导性问题及其适用性,question; guid question; answer; guid; ask; answer question; ask answer; did; wasn; break; provid; aspect; question wasn; cover; impact,145,33,0.2434789283481954,0.6144283689698361,0.4890059024539147
+RQ1,3,研究概念与证据核查,research; studi; variabl; identifi; group; explain; look; design; articl; result; research question; question; independ; sampl; control,145,48,0.2804209871598172,0.6144283689698361,0.4890059024539147
+RQ1,4,分步指导与理解支持,step; understand; better; step step; analyz; did; worksheet; like; revis; correct; import; prompt; ask; follow; good,145,22,0.17515352046533006,0.6144283689698361,0.4890059024539147
+RQ2,1,补充研究内容与解释,includ; research; revis; result; studi; better; clear; chang; variabl; question; method; chang result; ensur; conclus; provid,137,60,0.4366337201820955,0.6403577485103416,0.5161135539054251
+RQ2,2,语言格式修改及有限修改,chang; sentenc; correct; did; grammat; fix; citat; error; ad; word; read; sure; grammat error; coupl; text,137,51,0.3630789573961754,0.6403577485103416,0.5161135539054251
+RQ2,3,围绕问题补充或核对回答,answer; question; answer question; just; question answer; ask; didn; guid; guid question; question ask; went; fact; doubl check; doubl; analysi,137,26,0.20028732242172903,0.6403577485103416,0.5161135539054251
+RQ3,1,研究理解与批判性解释,research; studi; understand; import; method; explain; critic; clear; connect; sure; better; definit; result; realiz; idea,104,39,0.3606883252510886,0.5190248263929137,0.40499665273855845
+RQ3,2,回答展开与任务要求意识,answer; question; guid; guid question; respons; answer question; ensur; answer guid; better; direct; better understand; instead; just; like; provid,104,18,0.19336213995591442,0.5190248263929137,0.40499665273855845
+RQ3,3,有限收获与改变写法的反思,chang; didn; benefici; believ; issu; did; good; read; sure; person; word; experi; like; don; tool,104,27,0.2476427061931189,0.5190248263929137,0.40499665273855845
+RQ3,4,提问策略与自我检查,ask; instruct; step; regard; question; want; specif; improv; forward; question ask; know; tri; know ask; step instruct; format,104,20,0.198306828599878,0.5190248263929137,0.40499665273855845
+RQ3_extended,1,提问与引导策略,ask; question; guid question; guid; question ask; better; instead; ask question; prompt; check; want; edit; away; structur; citat,134,26,0.1965753435146465,0.5544812061758494,0.45368467653493466
+RQ3_extended,2,研究理解与解释,research; studi; understand; import; method; sure; clear; critic; explain; realiz; definit; result; articl; connect; idea,134,48,0.35762866246202435,0.5544812061758494,0.45368467653493466
+RQ3_extended,3,收获评价与情绪挑战（混合）,chang; didn; did; believ; experi; anxieti; challeng; allevi; benefici; like; confid; easier; don; improv; good,134,39,0.2908201601678579,0.5544812061758494,0.45368467653493466
+RQ3_extended,4,回答要求与工作表体验,answer; worksheet; answer question; respons; ensur; question; follow; direct; provid; like; explan; isn; best; direct answer; elabor,134,21,0.15497583385547126,0.5544812061758494,0.45368467653493466

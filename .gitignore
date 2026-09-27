@@ -1,0 +1,15 @@
+private_run/
+private_*/
+Data/
+Manuscript/
+extracted/
+.venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.docx
+*.pdf
+*.npz
+.DS_Store
+.env
+.env.*
