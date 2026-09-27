@@ -120,7 +120,7 @@ def build():
 <meta name="color-scheme" content="light"><link rel="stylesheet" href="site.css"></head>
 <body><a class="skip" href="#report">跳至报告正文</a>
 <header class="masthead"><a class="wordmark" href="#">AI PEER REVIEW <span>/ RESEARCH NOTES</span></a><a href="{REPO}">GitHub 仓库 ↗</a></header>
-<div class="layout"><aside aria-label="报告目录"><p class="toc-label">报告目录</p><nav>{nav}<a href="#downloads"><span>09</span>下载与代码本</a></nav><p class="aside-note">探索性计算分析<br>2026年9月27日</p></aside>
+<div class="layout"><aside aria-label="报告目录"><p class="toc-label">报告目录</p><nav>{nav}<a href="#downloads"><span>{len(nav.splitlines()) + 1:02}</span>下载与代码本</a></nav><p class="aside-note">探索性计算分析<br>2026年9月27日</p></aside>
 <main id="report"><header class="report-head"><p class="eyebrow">反馈 · 修订 · 学习</p><h1>AI 同伴评阅中的<br>反馈、修订与学习</h1><p class="subtitle">39名学生四轮反思的探索性分析</p><div class="metadata"><span>39名参与者</span><span>427条有效回答</span><span>独立人工编码待完成</span></div></header>
 <article>{body}</article>
 <section id="downloads"><h2>下载与代码本</h2><p>下载汇总表，或在GitHub查看数据清理、建模和出图代码。表格中不含学生原话和个体编号。</p><div class="downloads">{downloads}</div>
